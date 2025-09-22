@@ -4,7 +4,7 @@ cat > PROJECT.md <<'MD'
 # Project: RAG Multimodal — Giao thông · Văn hóa · Du lịch (PoC)
 
 ## 1. Tên dự án
-Hệ thống Hỏi–Đáp Đa phương thức RAG cho Giao thông, Văn hóa, Du lịch (TP. Hồ Chí Minh) — PoC
+Phát triển hệ thống Hỏi–Đáp Đa phương thức RAG trong lĩnh vực Giao thông, Văn hóa, Du lịch (TP. Hồ Chí Minh) — PoC
 
 ## 2. Mô tả ngắn
 Hệ thống trả lời câu hỏi bằng văn bản/hình ảnh hoặc kết hợp. Trả về: câu trả lời ngắn, mẹo địa điểm, ảnh minh họa và link bản đồ.
